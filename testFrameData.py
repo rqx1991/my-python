@@ -1,8 +1,8 @@
 #!/usr/bin/python3.5
 #coding=utf-8
 
-# This is an test of the usage of dataFrame.
-import tushare as ts
+# This file is used to test the usage of dataFrame.
+
 import pandas as pd
 
 # There several ways to set freamData, this is one of the methods.
